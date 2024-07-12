@@ -1,6 +1,6 @@
 const square = (num) => {
-  console.log(num ** 2);
+ return num ** 2;
 
 }
 
-square(3);
+console.log(square(3));
